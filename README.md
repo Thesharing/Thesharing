@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I'm currently working on [Apache Flink](https://github.com/apache/flink).
+
+![Thesharing's github stats](https://github-readme-stats.vercel.app/api?username=thesharing&count_private=true&show_icons=true&include_all_commits=true)
+
 <!--
 **Thesharing/Thesharing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
