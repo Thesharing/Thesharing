@@ -6,6 +6,8 @@
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=thesharing&hide=html&layout=compact&hide_border=true)
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=thesharing&theme=flat&no-bg=true&no-frame=true&column=10)
+
 <!--
 **Thesharing/Thesharing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
