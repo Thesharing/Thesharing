@@ -8,7 +8,7 @@
 
 #### My Github Stats
 
-![Thesharing's github stats](https://github-readme-stats.vercel.app/api?username=thesharing&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&line_height=32&hide_border=true&hide_title=true)
+![Thesharing's github stats](https://github-readme-stats.vercel.app/api?username=thesharing&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&line_height=28&hide_border=true&hide_title=true)
 
 #### Most Used Language
 
@@ -20,5 +20,5 @@
 
 #### Trophy
 
-![My Github Trophy](https://github-profile-trophy.vercel.app/?username=thesharing&theme=flat&no-bg=true&no-frame=true&column=10)
+![My Github Trophy](https://github-profile-trophy.vercel.app/?username=thesharing&theme=flat&no-bg=true&no-frame=true&column=7)
 
