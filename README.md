@@ -12,7 +12,7 @@
 
 #### Most Used Language
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=thesharing&hide=html&layout=compact&hide_border=true&hide_title=true)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=thesharing&hide=html&layout=compact&hide_border=true&hide_title=true&exclude_repo=thesharing.github.io,pkuthss)
 
 #### Streak
 
